@@ -1,7 +1,7 @@
 # InstallPytrochScript
 #move to sudo <br />
 sudo -i <br />
-#update
+#update <br />
 apt update <br />
 apt install git <br />
 git clone https://github.com/Rehmatkhan/InstallPytrochScript.git <br />
