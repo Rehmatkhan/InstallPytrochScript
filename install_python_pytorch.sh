@@ -26,7 +26,7 @@ mv _C.cpython-37m-arm-linux-gnueabi.so _C.so
 mv _dl.cpython-37m-arm-linux-gnueabi.so _dl.so
 apt install -y libopenblas-base libopenblas-dev libblas-dev m4 cmake cython python3-dev python3-yaml python3-setuptools python3-wheel python3-pillow python3-numpy
 pip3 install --upgrade wandb
-pip3 install -y tqdm
+pip3 install tqdm
 cd ~
 rm -rf FedML-AI
 
