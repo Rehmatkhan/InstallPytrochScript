@@ -1,5 +1,5 @@
 #move to sudo
-sudo -i
+#sudo -i
 #update
 apt update
 #install and configure python3.7.0
